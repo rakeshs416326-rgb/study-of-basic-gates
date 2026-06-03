@@ -82,7 +82,9 @@ xnor(Y7,a,b);
 endmodule
  ```
 **Logic symbol & Truthtable**
-<img width="3" height="12" alt="image" src="https://github.com/user-attachments/assets/99529dd7-a1cc-4f2c-8c65-03045e28e737" />
+<img width="449" height="835" alt="image" src="https://github.com/user-attachments/assets/671f97d8-6dfe-4861-aed8-c8a753538037" />
+
+
 <img width="1045" height="678" alt="image" src="https://github.com/user-attachments/assets/afa8d2b9-1b89-45b2-ae7c-0654cce3ee77" />
 
 
