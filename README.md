@@ -82,11 +82,16 @@ xnor(Y7,a,b);
 endmodule
  ```
 **Logic symbol & Truthtable**
+<img width="3" height="12" alt="image" src="https://github.com/user-attachments/assets/99529dd7-a1cc-4f2c-8c65-03045e28e737" />
+<img width="1045" height="678" alt="image" src="https://github.com/user-attachments/assets/afa8d2b9-1b89-45b2-ae7c-0654cce3ee77" />
 
-**RTL realization Output:** 
+
+**RTL realization Output:**
+<img width="1495" height="914" alt="image" src="https://github.com/user-attachments/assets/af340d7b-449c-4f8c-b7da-5a094d24207b" />
+
 
 **RTL**
 
 **Result:**
-
+Thus the verification of the truth table of logic gates in Quartus II using Verilog programming.
 
